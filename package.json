@@ -1,0 +1,18 @@
+{
+  "name": "Probot",
+  "description": "File Like Probot",
+  "version": "1.1.0",
+  "main": "probot.js",
+  "scripts": {
+    "start": "node probot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "request": "2.81.0",
+	"fs": "0.0.1-security",
+	"dateformat": "^3.0.3",
+	"ascii-data-table": "^2.1.1",
+	"moment": "^2.23.0",
+	"canvas": "^2.2.0"
+  }
+}
